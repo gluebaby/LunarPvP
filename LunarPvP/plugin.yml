@@ -1,0 +1,22 @@
+name: VentosPvp
+author: Undead_Guppy
+version: 3.0
+main: me.undeadguppy.lunarpvp.Main
+depends: [TitleAPI, WorldGuard]
+commands:
+  stats:
+  spawn:
+  setspawn:
+  koth:
+  list:
+  help:
+  rules:
+  shop:
+  bounty:
+  setstats:
+  
+  
+  
+  
+  
+  

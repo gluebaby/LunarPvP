@@ -1,0 +1,17 @@
+name: VentosUtils
+author: Undead_Guppy
+main: me.undeadguppy.lunarutils.Main
+version: 2.0
+commands:
+  admin:
+    aliases: [modmode, staff, staffmode, adminmode, v, vanish, hide, invis, vis]
+  freeze:
+    aliases: [ss, screenshare]
+  invsee:
+    aliases: [inv]
+  reply:
+    aliases: [r, respond]
+  report:
+  staffchat:
+    aliases: [sc]
+  
